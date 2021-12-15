@@ -1,15 +1,15 @@
 # 42-Cursus
 My version of the 42-Cursus projects that I have worked on till now.
 
-| Project                                                             | Status | Mark |
-|---------------------------------------------------------------------|--------|------|
-| <a href="https://github.com/EniddeallA/ft_libft">Ft_libft</a>       |   ✅   |  115 |
-| <a href="https://github.com/EniddeallA/ft_libft">get_next_line</a>  |   ✅   |  115 |
-| <a href="https://github.com/EniddeallA/ft_libft">ft_printf</a>      |   ✅   |  100 |
-| <a href="https://github.com/EniddeallA/ft_libft">ft_server</a>      |   ✅   |  100 |
-| <a href="https://github.com/EniddeallA/ft_libft">miniRT</a>         |   ✅   |  103 |
-| <a href="https://github.com/EniddeallA/ft_libft">Pipex</a>          |   ✅   |  100 |
-| <a href="https://github.com/EniddeallA/ft_libft">Libasm</a>         |   ✅   |  125 |
-| <a href="https://github.com/EniddeallA/ft_libft">Inception</a>      |   ✅   |  100 |
-| <a href="https://github.com/EniddeallA/ft_libft">Philosophers</a>   |   ✅   |  100 |
-| <a href="https://github.com/EniddeallA/ft_libft">Minishell</a>      |   🔳   |   -  |
+| Project                                                                    |            Status          |            Mark             |
+|----------------------------------------------------------------------------|----------------------------|-----------------------------|
+| <a style="padding:0" href="https://github.com/EniddeallA/ft_libft"> FT_LIBFT </a>            | <p align="center"> ✅ </p> | <p align="center"> 115 </p> |
+| <a href="https://github.com/EniddeallA/get_next_line"> GET_NEXT_LINE </a>  | <p align="center"> ✅ </p> | <p align="center"> 115 </p> |
+| <a href="https://github.com/EniddeallA/ft_printf"> FT_PRINTF </a>          | <p align="center"> ✅ </p> | <p align="center"> 100 </p> |
+| <a href="https://github.com/EniddeallA/Ft_server"> FT_SERVER </a>          | <p align="center"> ✅ </p> | <p align="center"> 100 </p> |
+| <a href="https://github.com/EniddeallA/miniRT"> MINIRT </a>                | <p align="center"> ✅ </p> | <p align="center"> 103 </p> |
+| <a href="https://github.com/EniddeallA/Pipex"> PIPEX </a>                  | <p align="center"> ✅ </p> | <p align="center"> 100 </p> |
+| <a href="https://github.com/EniddeallA/Libasm"> LIBASM </a>                | <p align="center"> ✅ </p> | <p align="center"> 125 </p> |
+| <a href="https://github.com/EniddeallA/Inception"> INCEPTION </a>          | <p align="center"> ✅ </p> | <p align="center"> 100 </p> |
+| <a href="https://github.com/EniddeallA/Philosophers"> PHILOSOPHERS </a>    | <p align="center"> ✅ </p> | <p align="center"> 100 </p> |
+| <a href="https://github.com/EniddeallA/Minishell"> MINISHEL </a>           | <p align="center"> 🔳 </p> | <p align="center"> -- </p>  |
