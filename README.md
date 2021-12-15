@@ -12,4 +12,4 @@ My version of the 42-Cursus projects that I have worked on till now.
 | <a href="https://github.com/EniddeallA/Libasm"> LIBASM </a>                | <p align="center"> ✅ </p> | <p align="center"> 125 </p> |
 | <a href="https://github.com/EniddeallA/Inception"> INCEPTION </a>          | <p align="center"> ✅ </p> | <p align="center"> 100 </p> |
 | <a href="https://github.com/EniddeallA/Philosophers"> PHILOSOPHERS </a>    | <p align="center"> ✅ </p> | <p align="center"> 100 </p> |
-| <a href="https://github.com/EniddeallA/Minishell"> MINISHEL </a>           | <p align="center"> 🔳 </p> | <p align="center"> -- </p>  |
+| <a href="https://github.com/EniddeallA/Minishell"> MINISHELL </a>           | <p align="center"> 🔳 </p> | <p align="center"> -- </p>  |
