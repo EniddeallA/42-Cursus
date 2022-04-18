@@ -14,4 +14,4 @@ My version of the 42-Cursus projects that I have worked on till now.
 | <a href="https://github.com/EniddeallA/Philosophers"> PHILOSOPHERS </a>           | <p align="center"> ✅ </p> | <p align="center"> 100 </p> |
 | <a href="https://github.com/EniddeallA/Minishell"> MINISHELL </a>                 | <p align="center"> ✅ </p> | <p align="center"> 101 </p> |
 | <a href="https://github.com/EniddeallA/CPP-Modules"> CPP-Modules </a>             | <p align="center"> ✅ </p> | <p align="center"> 100 </p>  |
-| <a href="https://github.com/EniddeallA/CPP-ft_containers"> ft_containers </a>     | <p align="center"> 🔳 </p> | <p align="center"> -- </p>  |
+| <a href="https://github.com/EniddeallA/ft_containers"> ft_containers </a>         | <p align="center"> 🔳 </p> | <p align="center"> -- </p>  |
